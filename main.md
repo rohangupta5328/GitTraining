@@ -3,7 +3,10 @@
 ### Please write your name and introduction
 
 
-- Hi my name is Rohan,
+
+- Alex joined the party
+
+- Hi my name is Rohan
 
 - This is Flora
 
@@ -12,4 +15,5 @@
 - olga
 
 - Hi my name is Michael
+
 
